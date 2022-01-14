@@ -1,0 +1,13 @@
+body {
+	background-color: #232426;
+}
+
+.hidden {
+	/* display: none; */
+	visibility: hidden;
+}
+
+.shown {
+	/* display: initial; */
+	visibility: visible;
+}
