@@ -4,5 +4,7 @@ This project was written to fulfill the requirements of the [freeCodeCamp 25 + 5
 
 It was written in react.js with a little help from the [Material User Interface](https://mui.com) library.
 
+Check out the [demo](https://qy741.csb.app/) or [codesandbox](https://codesandbox.io/s/fcc-25-5-clock-qy741).
+
 ![Clock Preview 1](clockPreview1.png)
 ![Clock Preview 2](clockPreview2.png)
